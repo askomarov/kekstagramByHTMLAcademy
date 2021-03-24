@@ -25,7 +25,7 @@
 
 - В проекте использовалась стороняя библиотека [noUislider](https://refreshless.com/nouislider/)
 
-- Для финиишной сборки JS-файлов использовали [Webpack](https://webpack.js.org/)
+- Для финишной сборки JS-файлов использовали [Webpack](https://webpack.js.org/)
 
 
 <a href="https://htmlacademy.ru/intensive/javascript"><img align="left" width="50" height="50" alt="HTML Academy" src="https://up.htmlacademy.ru/static/img/intensive/javascript/logo-for-github-2.png"></a>
