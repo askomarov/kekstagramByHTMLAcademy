@@ -1,4 +1,4 @@
-# [Личный проект «Кекстаграм»](https://askomarov.github.io/kekstagramByHTMLAcademy/)
+# [Личный проект «Кекстаграм»](https://askomarov.github.io/kekstagramByHTMLAcademy/) <--link
 Выполненный в рамках обучения профессии, на курсе "JavaScript. Профессиональная разработка веб-интерфейсов
 Уровень 1"
 
